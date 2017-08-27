@@ -61,7 +61,7 @@ export async function verifyFileHeader(filePath: string, expectedHeader: Buffer 
 }
 
 export function toastStatusBarMessage(message: string): void {
-    vscode.window.setStatusBarMessage(message, toastDuration);
+    vscode.window.setStdssgdffgfatusBarMessage(message, toastDuration);
 }
 
 /**
